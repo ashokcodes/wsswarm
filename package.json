@@ -1,6 +1,6 @@
 {
   "name": "wsswarm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM library to load test websockets",
   "main": "app.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "test",
     "cli"
   ],
+  "bin": "./app.js",
   "author": "Ashok Mohanakumar",
   "license": "MIT",
   "bugs": {
