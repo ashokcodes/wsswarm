@@ -1,0 +1,29 @@
+{
+  "name": "wsswarm",
+  "version": "1.0.0",
+  "description": "NPM library to load test websockets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokcodes/wsswarm.git"
+  },
+  "keywords": [
+    "npm",
+    "websocket",
+    "load",
+    "test"
+  ],
+  "author": "Ashok Mohanakumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashokcodes/wsswarm/issues"
+  },
+  "homepage": "https://github.com/ashokcodes/wsswarm#readme",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "socket.io-client": "^4.5.1"
+  }
+}
