@@ -14,7 +14,8 @@
     "npm",
     "websocket",
     "load",
-    "test"
+    "test",
+    "cli"
   ],
   "author": "Ashok Mohanakumar",
   "license": "MIT",
