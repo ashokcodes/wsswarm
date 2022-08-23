@@ -17,7 +17,7 @@
     "test",
     "cli"
   ],
-  "bin": "./app.js",
+  "bin": "./cli.js",
   "author": "Ashok Mohanakumar",
   "license": "MIT",
   "bugs": {
