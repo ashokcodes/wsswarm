@@ -4,7 +4,7 @@ Simple NPM library that lets you load test socket server
 
 ## Installation
 
-```
+```bash
 npm install -g wsswarm@latest
 ```
 
